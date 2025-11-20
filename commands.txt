@@ -1,0 +1,10 @@
+insert,Richard Garriot,40000,1
+insert,Sid Meier,50000,2
+insert,Shigeru Miyamoto,51000,3
+delete,Sid Meier,4
+insert,Hideo Kojima,45000,5
+insert,Gabe Newell,49000,6
+insert,Roberta Williams,45900,7
+delete,Richard Garriot,8
+insert,Carol Shaw,41000,9
+search,Sid Meier,10
